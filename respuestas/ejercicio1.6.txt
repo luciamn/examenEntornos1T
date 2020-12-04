@@ -1,0 +1,5 @@
+$ git log --graph --oneline --decorate --all
+* 7e175a8 (HEAD -> MUÑOZ-NAVAS) Añadida respuesta ejercicio 1.4
+* b79c7ba (origin/main, origin/HEAD, main) Update .gitignore
+* 7b39baf Initial commit
+
