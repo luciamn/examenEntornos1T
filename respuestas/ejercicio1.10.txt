@@ -1,0 +1,28 @@
+$ git tag MUÑOZ-NAVAS-paso5 7e175a8c47bae6a97af1abf337e15f494a2de046
+
+daw1_b@1DAM-11 MINGW64 /d/Educa/daw1_b/Escritorio/Examen-Muñoz-Navas/entornos1T/respuestas (MUÑOZ-NAVAS)
+$ git log
+commit c98bb90d32f8b82739ef1c94289271b6bddecca0 (HEAD -> MUÑOZ-NAVAS)
+Author: Lucia Muñoz <lucia.munoz86@educa.madrid.org>
+Date:   Fri Dec 4 19:46:04 2020 +0100
+
+    Añadida resppuesta ejercicio 1.6
+
+commit 7e175a8c47bae6a97af1abf337e15f494a2de046 (tag: MUÑOZ-NAVAS-paso5)
+Author: Lucia Muñoz <lucia.munoz86@educa.madrid.org>
+Date:   Fri Dec 4 19:44:35 2020 +0100
+
+
+
+
+daw1_b@1DAM-11 MINGW64 /d/Educa/daw1_b/Escritorio/Examen-Muñoz-Navas/entornos1T (main)
+$ git merge MUÑOZ-NAVAS
+Updating b79c7ba..c98bb90
+Fast-forward
+ respuestas/ejercicio1.4.txt | 26 ++++++++++++++++++++++++++
+ respuestas/ejercicio1.6.txt |  5 +++++
+ 2 files changed, 31 insertions(+)
+ create mode 100644 respuestas/ejercicio1.4.txt
+ create mode 100644 respuestas/ejercicio1.6.txt
+
+
